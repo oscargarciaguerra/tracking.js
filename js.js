@@ -1,0 +1,1 @@
+document.cookie = "cookie1=oscar"
