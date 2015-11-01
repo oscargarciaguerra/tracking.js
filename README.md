@@ -4,7 +4,7 @@ Hi,
 
 Thanks for stopping by (-:
 
-This is my small project to gain a high level understanding on how http requests and cookies work.
+This is my project to gain a high level understanding on how http requests and cookies work.
 
 I wanted to follow the whole client server flow and to create a simple web server that serves static content and is capable of reading http requests (post) and storing data in memory. 
 
